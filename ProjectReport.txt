@@ -1,7 +1,0 @@
-Cole Bell: Created the PhysicalMemory() constructor. Created scanner and took user input to generate PhysicalMemory space in the form of a Boolean Array that tells us if a given memory space is occupied or available. Created skeleton methods for requestMemory(), accessMemory(), and releaseMemory() and filled them with comments on what they should do. Helped to create requestMemory() logic/code. Created and declared sempahore. Helped to implement releaseMemory(). Cleaned up excess/unnesassary code and comments and submitted.
-
-Eris: Implemented releaseMemory(). 
-
-Ahsif: implemented requestMemory, created linked list and stored PageTable within the linked list, utilized semaphore to lock necessary areas within requestMemory. assisted with availableFrames array which determines if a frame is occupied or not. assisted with accessMemory() and releaseMemory(), tested with different frame and memory sizes. 
-
-Leradee : Implemeneted accessMemory() method in PhysicalMemory class. Helped with the logic of requestMemory(). Helped debug and tested code with specific sizes of request memory. Added debugging messages to ensure releaseMemory() was functioning.
